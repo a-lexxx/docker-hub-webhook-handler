@@ -1,6 +1,6 @@
 {
   "name": "docker-hub-webhook-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webhook handler for docker-hub hooks",
   "main": "index.js",
   "scripts": {
